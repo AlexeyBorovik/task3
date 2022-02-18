@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "borovik task3",
+    "mongoUri": "mongodb+srv://Alex:12345@cluster0.7vj9n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
